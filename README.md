@@ -36,3 +36,31 @@ I'm a passionate developer interested in **Full-Stack Web Development**, focused
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
+---
+
+### 💻 Featured Projects
+
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/🌱_FarmDirect-FullStack-2ea44f?style=for-the-badge&logo=javascript&logoColor=white" /><br>
+      <sub style="color: #666;">A modern agricultural platform connecting farmers directly to markets. Built with JavaScript.</sub><br>
+      <br>
+      <a href="https://github.com/pragna2209/FarmDirect">🔗 View Repository</a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/🏛️_Sachivalayam-Grievance_System-007ec6?style=for-the-badge&logo=javascript&logoColor=white" /><br>
+      <sub style="color: #666;">Full-stack grievance platform for citizens with OTP authentication & tracking.</sub><br>
+      <br>
+      <a href="https://github.com/pragna2209/sachivalayam">🔗 View Repository</a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://img.shields.io/badge/⚡_VCS-Version_Control-333333?style=for-the-badge&logo=python&logoColor=white" /><br>
+      <sub style="color: #666;">Custom version control system implementation built using Python.</sub><br>
+      <br>
+      <a href="https://github.com/pragna2209/Version-Control-System">🔗 View Repository</a>
+    </td>
+  </tr>
+</table>
+
+---
